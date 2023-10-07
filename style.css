@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
+
+.pumpkin {
+  color: red;
+}
+.recipe-link {
+  font: normal 20px Times;
+}
+
+.pumpkin-ingredients-list {
+  font: normal 15px Times;
+}
